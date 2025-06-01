@@ -1,0 +1,12 @@
+title: SuperStudy
+description: An 8-module study program focused on superannuation strategy, member outcomes and regulatory framework.
+theme: just-the-docs
+
+url: "https://tlbarrau.github.io"
+baseurl: "/SuperStudy"
+
+nav_enabled: true
+
+aux_links:
+  GitHub Repo: https://github.com/TLBarrAU/SuperStudy
+  LinkedIn: https://www.linkedin.com/in/travisbarr/
