@@ -1,2 +1,7 @@
 title: SuperStudy
 theme: jekyll-theme-minimal
+show_downloads: false
+
+# Remove or comment out this if present
+github:
+  is_project_page: true
